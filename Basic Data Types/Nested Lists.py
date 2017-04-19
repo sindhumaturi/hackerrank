@@ -26,4 +26,4 @@ lst2.sort()
 for i in lst2:
     print i
     
-    
+  # lists are nested  
