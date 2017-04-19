@@ -9,9 +9,4 @@ def capitalize(string):
         else:
             s = s + " "
     return s
-         
-      
-            
-        
-   
-
+    #capitalizes the string
