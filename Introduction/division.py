@@ -5,4 +5,4 @@ if __name__ == '__main__':
     print int(a/b)
     print float(a)/b
 
-    # done with division
+    # done with division and displayed it

@@ -13,5 +13,5 @@ if __name__ == '__main__':
             for j in range(len(scores)):
                 summ += student_marks[i][j]
     print ("%.2f" %(float(summ)/len(scores)))
-    # percentage calculated
+    # percentage calculated and displayed it,
                 
