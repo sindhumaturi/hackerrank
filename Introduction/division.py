@@ -4,3 +4,5 @@ if __name__ == '__main__':
     b = int(raw_input())
     print int(a/b)
     print float(a)/b
+
+    # done with division
